@@ -39,9 +39,9 @@
     "sass-wrap-loader": "^0.3.0",
     "source-map-loader": "^0.1.5",
     "style-loader": "^0.13.1",
-    "webpack": "^1.13.1",
+    "webpack": "1.13.2",
     "webpack-bower-sass-sources": "^1.0.0",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "1.14.1",
     "wrap-loader": "^0.1.0"
   }
 }
